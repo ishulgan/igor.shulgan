@@ -5,7 +5,8 @@ I have some experience in software development in the following languages:
 - C#, ASP.NET;
 - HTML, CSS, JavaScript;
 - PHP.
-  I also have experience in network designing on CISCO hardware and its following configuration and maintenance. I love coding. I am fond of solving problems. So I would like to become a professional software engineer.
+  
+I also have experience in network designing on CISCO hardware and its following configuration and maintenance. I love coding. I am fond of solving problems. So I would like to become a professional software engineer.
 
 ## My Interests
 
