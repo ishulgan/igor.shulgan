@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# About Me
 
-You can use the [editor on GitHub](https://github.com/ishulgan/igor.shulgan/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hellow everyone! My name is **Ihar Shulhan**. I graduated from BSUIR (military faculty, specialized in multichannel telecommunication systems) in 2009. Since then I've worked in several state organization. I don't have any experience as a software engineer in commercial enterprises. But I have profound knowledge of OOP, SOLID and design patterns.
+I have some experience in software development in the following languages: 
+- C#, ASP.NET;
+- HTML, CSS, JavaScript;
+- PHP.
+I also have experience in network designing on CISCO hardware and its following configuration and maintenance. I love coding. I am fond of solving problems. So I would like to become a professional software engineer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## My Interests
 
-### Markdown
+- **Reading.** Especially books and articles on programming.
+- **Swimming.** I used to go to the swimming pool at least three times a week before taking an English course at MSLU. And now that I   don’t attend English classes any more I would like to take up swimming.
+- **Playing volleyball.** Every Tuesday after work my colleagues and I go to play volleyball.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ishulgan/igor.shulgan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Tasks
+### [Kata](https://www.codewars.com/users/ishulgan/dashboard)
+Basic coding 1;
+### Padawans
+[0.](https://github.com/ishulgan//FancyCalc.git)
+[1.](https://github.com/ishulgan/PadawansTask1.git)
+[2.](https://github.com/ishulgan/PadawansTask2.git)
+[3.](https://github.com/ishulgan/PadawansTask3.git)
+[4.](https://github.com/ishulgan/PadawansTask4.git)
+[5.](https://github.com/ishulgan/PadawansTask5.git)
+[6.](https://github.com/ishulgan/PadawansTask6.git)
+[7.](https://github.com/ishulgan/PadawansTask7.git)
+[8.](https://github.com/ishulgan/PadawansTask8.git)
+[9.](https://github.com/ishulgan/PadawansTask9.git)
+[10.](https://github.com/ishulgan/PadawansTask10.git)
+[11.](https://github.com/ishulgan/PadawansTask11.git)
+[12.](https://github.com/ishulgan/PadawansTask12.git)
+[13.](https://github.com/ishulgan/PadawansTask13.git)
+[15.](https://github.com/ishulgan/PadawansTask15.git)
