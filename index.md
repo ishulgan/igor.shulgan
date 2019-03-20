@@ -16,7 +16,6 @@ I also have experience in network designing on CISCO hardware and its following 
 
 ## Tasks
 ### [Kata](https://www.codewars.com/users/ishulgan/dashboard)
-Basic coding 1;
 ### Padawans
 [0.](https://github.com/ishulgan//FancyCalc.git)
 [1.](https://github.com/ishulgan/PadawansTask1.git)
